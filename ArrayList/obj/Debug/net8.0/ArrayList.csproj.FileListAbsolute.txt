@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\.net assignments\ArrayList\bin\Debug\net8.0\ArrayList.exe
+C:\Users\Asus\Desktop\.net assignments\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+C:\Users\Asus\Desktop\.net assignments\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+C:\Users\Asus\Desktop\.net assignments\ArrayList\bin\Debug\net8.0\ArrayList.dll
+C:\Users\Asus\Desktop\.net assignments\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\ArrayList.dll
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+C:\Users\Asus\Desktop\.net assignments\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll
