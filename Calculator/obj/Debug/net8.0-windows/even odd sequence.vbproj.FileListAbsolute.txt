@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\bin\Debug\net8.0-windows\even odd sequence.exe
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\bin\Debug\net8.0-windows\even odd sequence.deps.json
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\bin\Debug\net8.0-windows\even odd sequence.runtimeconfig.json
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\bin\Debug\net8.0-windows\even odd sequence.dll
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\bin\Debug\net8.0-windows\even odd sequence.pdb
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even_odd_sequence.Form1.resources
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.vbproj.GenerateResource.cache
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.AssemblyInfo.vb
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.sourcelink.json
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.dll
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\refint\even odd sequence.dll
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.pdb
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\even odd sequence.genruntimeconfig.cache
+C:\Users\Asus\Desktop\.net assignments\even odd sequence\obj\Debug\net8.0-windows\ref\even odd sequence.dll
