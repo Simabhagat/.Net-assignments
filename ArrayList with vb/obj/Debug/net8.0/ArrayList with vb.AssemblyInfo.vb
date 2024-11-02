@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ArrayList with vb"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae9a2b31dc3af2df847a3845da22f41a1dc505b"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9ebec077d4bf698341c9e739ff2d7d8643e28ba"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ArrayList with vb"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ArrayList with vb"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
