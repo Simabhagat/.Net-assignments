@@ -33,7 +33,7 @@ namespace InterfaceExample
         static void Main()
         {
             Robot robot = new Robot();
-
+            S
             // Calling methods from both interfaces
             robot.Move();      // From IMovable
             robot.Recharge();  // From IRechargeable

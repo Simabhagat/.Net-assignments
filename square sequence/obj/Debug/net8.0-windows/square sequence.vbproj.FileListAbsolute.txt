@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square_sequence.Form1.resources
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.vbproj.GenerateResource.cache
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.AssemblyInfo.vb
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.sourcelink.json
+C:\Users\Asus\Desktop\.net assignments\square sequence\bin\Debug\net8.0-windows\square sequence.exe
+C:\Users\Asus\Desktop\.net assignments\square sequence\bin\Debug\net8.0-windows\square sequence.deps.json
+C:\Users\Asus\Desktop\.net assignments\square sequence\bin\Debug\net8.0-windows\square sequence.runtimeconfig.json
+C:\Users\Asus\Desktop\.net assignments\square sequence\bin\Debug\net8.0-windows\square sequence.dll
+C:\Users\Asus\Desktop\.net assignments\square sequence\bin\Debug\net8.0-windows\square sequence.pdb
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.dll
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\refint\square sequence.dll
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.pdb
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\square sequence.genruntimeconfig.cache
+C:\Users\Asus\Desktop\.net assignments\square sequence\obj\Debug\net8.0-windows\ref\square sequence.dll
