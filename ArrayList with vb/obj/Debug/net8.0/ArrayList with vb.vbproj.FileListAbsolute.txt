@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ArrayList with vb\bin\Debug\net8.0\ArrayList with vb.exe
+C:\Users\Asus\source\repos\ArrayList with vb\bin\Debug\net8.0\ArrayList with vb.deps.json
+C:\Users\Asus\source\repos\ArrayList with vb\bin\Debug\net8.0\ArrayList with vb.runtimeconfig.json
+C:\Users\Asus\source\repos\ArrayList with vb\bin\Debug\net8.0\ArrayList with vb.dll
+C:\Users\Asus\source\repos\ArrayList with vb\bin\Debug\net8.0\ArrayList with vb.pdb
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\ArrayList with vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\ArrayList with vb.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\ArrayList with vb.AssemblyInfo.vb
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\ArrayList with vb.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\ArrayList with vb.dll
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\refint\ArrayList with vb.dll
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\ArrayList with vb.pdb
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\ArrayList with vb.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ArrayList with vb\obj\Debug\net8.0\ref\ArrayList with vb.dll
